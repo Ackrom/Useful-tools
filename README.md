@@ -22,6 +22,8 @@
 - https://camunda.com/bpmn/tool/
 - http://staruml.io/
 - https://pencil.evolus.vn/
+- https://www.draw.io/
+- https://bpmn.io/
 
 ## SVG
 - https://www.janvas.com/v6.1/janvas_web_6.1/en/index.php
