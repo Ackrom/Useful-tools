@@ -1,3 +1,5 @@
+in process...
+
 # Useful-tools
 
 ## Web scraping
@@ -11,6 +13,7 @@
 ## Desing
 - http://colormind.io/
 - https://fontjoy.com/
+- https://github.com/GoogleChromeLabs/ProjectVisBug
 
 ## Portfolios references
 - https://kyledecker.me/
@@ -28,7 +31,15 @@
 - https://www.draw.io/
 - https://bpmn.io/
 - https://erdplus.com/#/
+- https://www.figma.com/
+- https://cloudcraft.co/
 
 ## SVG
 - https://www.janvas.com/v6.1/janvas_web_6.1/en/index.php
 - http://svgcircus.com/
+- https://www.2dimensions.com/about-flare
+
+## test APIs
+- https://insomnia.rest/
+- https://www.getpostman.com/
+
